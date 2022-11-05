@@ -1,0 +1,14 @@
+header {
+  height: 70px;
+  margin: auto;
+  background-color: rgb(193, 118, 25);
+}
+header .logo {
+  width: 20%;
+  border: 2px solid red;
+}
+header .bigMenu {
+  width: 80%;
+  margin: auto;
+  border: 2px solid black;
+}/*# sourceMappingURL=style.css.map */
